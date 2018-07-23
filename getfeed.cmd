@@ -1,0 +1,1 @@
+dotnet bin\debug\netcoreapp2.1\trackacquire.dll
